@@ -64,5 +64,6 @@ settings_local.py
 # Navie
 appmap.log
 notebooks/*/*
+.env.notebook
 tmp/appmap
 
